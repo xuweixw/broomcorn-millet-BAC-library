@@ -8,3 +8,5 @@ BAC clones can be browsed, searched and obtained at our website
 http://45.32.75.45/JBrowse-1.16.5/index.html
 
 Our home page:http://GResource.hzau.edu.cn
+
+this artical is in preparation
