@@ -1,4 +1,4 @@
-# BAC
+# MAPPING BROOMCORN MILLET BAC CLONES TO THE REFERENCE GENOME BASED ON CAPSS
 
 Broomcorn millet (Panicum miliaceum) is one of the traditional five grains in China. It is drought-resistant and barren-tolerant and is an important crop in arid and semi-arid regions. At present, reference genomes of two broomcorn millet varieties have been published, which are accomplished by whole-genome shotgun sequencing strategy combined with Illumina sequencing technology, PacBio sequencing technology, HiC technology and map technology. The assembly qualities are high. BAC library, as a genomic resource, is of great use in genome sequence improvement, functional gene research and comparative genomics field. The purpose of this research was to integrate BAC library into broomcorn millet genome to maximize the use of BAC library resource.
 
