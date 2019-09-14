@@ -5,7 +5,7 @@ Broomcorn millet (Panicum miliaceum) is one of the traditional five grains in Ch
 In this study, 9216 clones from the broomcorn millet BAC library were chosen as a material set. Using CAPSS (Clone-Array Pooled Shotgun Sequencing) strategy and Illumina sequencing technology, 8262 BAC clones were mapped onto the broomcorn millet longmi4 reference genome, of which 5391 were mapped by paired-end sequences and 2871 by single-end sequence. 14 BAC clones from chloroplast genome and no clones from mitochondria genome were identified. Compared to the Sanger sequencing method, our method used in this study can greatly reduce the cost of acquiring BAC end sequences and shorten the period of the experiment. The integration between the BAC library and the genome will facilitate the acquisition of BAC clones with specific functional genes, provide a reliable basis for the correction and improvement of genome sequences, and form the basis of molecular breeding and genomic function research.
 
 BAC clones can be browsed, searched and obtained at our website
-http://45.32.75.45/JBrowse-1.16.5/index.html <span color="red">This url cannot access from Sep 14, 2019.</span>
+http://45.32.75.45/JBrowse-1.16.5/index.html <span color="#FF0000">This url cannot access from Sep 14, 2019.</span>
 
 
 Our home page:http://GResource.hzau.edu.cn
