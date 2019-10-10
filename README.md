@@ -12,4 +12,4 @@ Our home page:http://GResource.hzau.edu.cn  http://45.32.75.45
 
 This artical is in preparation
 
-# Illumina sequencing data sets are available at Genome Sequence Archive (SRA) under accession PRJNA576359
+#### Illumina sequencing data sets are available at Sequence Read Archive (SRA) under accession PRJNA576359
