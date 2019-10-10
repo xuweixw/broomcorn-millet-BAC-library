@@ -11,3 +11,5 @@ http://45.32.75.45/JBrowse-1.16.5/index.html (The url is available, Sep 17, 2019
 Our home page:http://GResource.hzau.edu.cn  http://45.32.75.45
 
 This artical is in preparation
+
+# Illumina sequencing data sets are available at Genome Sequence Archive (SRA) under accession PRJNA576359
