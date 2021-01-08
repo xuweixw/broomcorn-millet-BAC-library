@@ -10,6 +10,9 @@ http://flyinguineapig.com/gresource/JBrowse-1.16.5/index.html (The url is availa
 
 Our home page:http://GResource.hzau.edu.cn  http://flyinguineapig.com/
 
-This artical is in preparation
+This artical posted on bioarchive:  https://www.biorxiv.org/content/10.1101/2020.11.19.389643v1
+
+Email: xuweixw27@gmail.com
+
 
 #### Illumina sequencing data sets are available at Sequence Read Archive (SRA) under accession PRJNA576359
