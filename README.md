@@ -11,7 +11,7 @@ BAC clones can be browsed, searched and obtained at our website
 http://eightstarsbio.com/gresource/JBrowse-1.16.5/index.html (The url is available, Sep 17, 2019.)
 
 
-Our home page:http://GResource.hzau.edu.cn  http://eightstasbio.com/
+Our home page:http://GResource.hzau.edu.cn  http://eightstarsbio.com/
 
 This artical posted on bioarchive:  https://www.biorxiv.org/content/10.1101/2020.11.19.389643v1
 
