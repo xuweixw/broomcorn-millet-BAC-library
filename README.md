@@ -1,14 +1,17 @@
-# Mapping broomcorn millet BAC clones to the referenece genome based on CAPSS
+# Genomic Resources of Broomcorn Millet: Demonstration and Application of a High-throughput BAC Mapping Pipeline
+## Background
+With high-efficient water-use and drought tolerance, broomcorn millet has emerged as candidate for food security. To promote its research process for molecular breeding and functional research, a comprehensive genome resources is of great important. 
+## Results
+Herein, we constructed the first BAC library for broomcorn millet, generated BAC end sequences and integrated BAC clones into genome by a novel pipeline for BAC end profiling depending on clone-array pooled shotgun sequencing strategy and Illumina sequencing technology. The BAC library is consisted of 76,023 clones with average insert length of 123.48 Kb, about 9.9x coverage of the 850 Mb genome. Then, 8262 of 9216 clones were mapped on broomcorn millet cultivar longmi4 genome using our pipeline. Furthermore, we also extracted and assembled unmapped reads against longmi4 genome. A total of 135 deletion sequences, 64 specific sequences and some sample contamination sequences were identified.
+## Conclusions
+BAC clones in this library can be browsed and obtained from our website (http://eightstarsbio.com/gresource/JBrowse-1.16.5/index.html). This pipeline designed for BAC end profiling can greatly reduce the cost of acquiring BAC end sequences and shorten the period of the experiment compared with the Sanger sequencing method. These high-quality BAC clones related with genome in this study provide a useful and convinient genomic resource for genome gap filling, complex segment sequencing, FISH, functional research, and genetic engineering.
 
-Broomcorn millet (Panicum miliaceum) is one of the traditional five grains in China. It is drought-resistant and barren-tolerant and is an important crop in arid and semi-arid regions. At present, reference genomes of two broomcorn millet varieties have been published, which are accomplished by whole-genome shotgun sequencing strategy combined with Illumina sequencing technology, PacBio sequencing technology, HiC technology and map technology. BAC library, as a genomic resource, is of great use in genome sequence improvement, functional gene research and comparative genomics field. The purpose of this research was to integrate BAC library into broomcorn millet genome to maximize the use of BAC library resource.
-
-In this study, 9216 clones from the broomcorn millet BAC library were chosen as a material set. Using CAPSS (Clone-Array Pooled Shotgun Sequencing) strategy and Illumina sequencing technology, 8262 BAC clones were mapped onto the broomcorn millet longmi4 reference genome, of which 5391 were mapped by paired-end sequences and 2871 by single-end sequence. 14 BAC clones from chloroplast genome and no clones from mitochondria genome were identified. Compared to the Sanger sequencing method, our method used in this study can greatly reduce the cost of acquiring BAC end sequences and shorten the period of the experiment. The integration between the BAC library and the genome will facilitate the acquisition of BAC clones with specific functional genes, provide a reliable basis for the correction and improvement of genome sequences, and form the basis of molecular breeding and genomic function research.
 
 BAC clones can be browsed, searched and obtained at our website
-http://flyinguineapig.com/gresource/JBrowse-1.16.5/index.html (The url is available, Sep 17, 2019.)
+http://eightstarsbio.com/gresource/JBrowse-1.16.5/index.html (The url is available, Sep 17, 2019.)
 
 
-Our home page:http://GResource.hzau.edu.cn  http://flyinguineapig.com/
+Our home page:http://GResource.hzau.edu.cn  http://eightstasbio.com/
 
 This artical posted on bioarchive:  https://www.biorxiv.org/content/10.1101/2020.11.19.389643v1
 
